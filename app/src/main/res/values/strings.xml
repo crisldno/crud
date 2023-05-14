@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CRUD_SQLite</string>
+    <string name="nombreEstudiante">nombre estudiante</string>
+    <string name="hint_correo">Correo</string>
+    <string name="Curso">Curso</string>
+    <string name="tittle">Registro Estudiantes</string>
+    <string name="Guardar">agregar</string>
+    <string name="Listar">listar</string>
+    <string name="Actualizar">Actualizar</string>
+    <string name="eliminar">Eliminar</string>
+</resources>
